@@ -10,7 +10,6 @@ const GlobalStyles = createGlobalStyle`
   html,
   body {
     font-family: "Arial", sans-serif;
-    background-color: red;
   }
 
   a {
